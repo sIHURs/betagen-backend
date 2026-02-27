@@ -43,7 +43,7 @@ markers = [
 
 [tool.coverage.run]
 branch = true
-source = ["betagen_backend"]
+source = ["app"]
 omit = [
   "tests/*",
 ]
