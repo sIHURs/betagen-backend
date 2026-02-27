@@ -1,3 +1,5 @@
+LICENSE
+README.md
 pyproject.toml
 src/app/__init__.py
 src/app/config.py
